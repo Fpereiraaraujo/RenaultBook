@@ -1,28 +1,27 @@
-# Build and Deploy a Full Stack MERN Next.js 13 Threads App | React, Next JS, TypeScript, MongoDB
-![Threads](https://i.ibb.co/2dSC0TQ/Thumbnail-1.png)
+README - RenaultBook
 
-## Next.js 13 eBook & Course
-📚 https://resource.jsmastery.pro/nextjs-guide
+Introdução
+Bem-vindo ao RenaultBook, a plataforma de rede social interna da Renault para promover a interação e comunicação entre os funcionários. Este documento descreve os passos necessários para implantar com sucesso a plataforma Renault Social em seu ambiente de hospedagem preferido.
 
-## Summary
-Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!
+Pré-requisitos
+Antes de iniciar o processo de implantação, certifique-se de que seu ambiente atenda aos seguintes pré-requisitos:
 
-In this video, you'll:
-- Master Next.js 13.4 with Server Side Rendering
-- Learn MongoDB handling of complex schemas, multiple data population
-- Create beautiful layouts with TailwindCSS
-- Use Clerk for authentication
-- Handle file uploads with UploadThing
-- Explore Shadcn components
-- Listen to real-time events with webhooks
-- Understand middleware, API actions, and authorization
-- Explore & integrate new Next.js layout route groups
-- Validate data with Zod
-- Manage forms with react hook form
-- Create reusable components
-- Build a solid application architecture
-- Deploy the application and more!
+Sistema operacional compatível (Linux, Windows, etc.)
+Servidor web (por exemplo, Apache, Nginx)
+Banco de dados (recomendamos MySQL, PostgreSQL)
+Node.js instalado (versão >= 12.0)
+Git instalado
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+
+
+
+
+Suporte
+Se você encontrar problemas ou tiver dúvidas durante a implantação ou operação do RenaultBook, entre em contato com nossa equipe de suporte em 
+
+Contribuições
+Aceitamos contribuições da comunidade! Se você deseja contribuir para o desenvolvimento do Renault Social, siga as diretrizes de contribuição em nosso repositório GitHub.
+
+Autor
+Fernando pereira
+fernandomendespereira@hotmail.com
